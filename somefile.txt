@@ -1,2 +1,3 @@
 some file contents
 newline2
+newline3
