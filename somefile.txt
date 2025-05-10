@@ -1,3 +1,4 @@
 some file contents
 newline2
 newline3
+asdjfasdfa
